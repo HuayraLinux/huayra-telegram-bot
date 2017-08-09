@@ -21,7 +21,7 @@ cp bot.config.json-dist bot.config.json
 
 Modificar el archivo bot.config.json con el TOKEN del bot de telegram
 
-
+Finalmente ejecutar node ./bot.js para iniciar el bot.
 
 
 
