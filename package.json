@@ -1,0 +1,20 @@
+{
+  "name": "huayradevbot-telegram",
+  "version": "1.0.0",
+  "description": "Bot de Huayra devels para Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Fernando Toledo",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "messenger": "0.0.9",
+    "node-telegram-bot-api": "^0.27.1",
+    "sqlite3": "^3.1.8"
+  }
+}
